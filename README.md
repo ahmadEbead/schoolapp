@@ -1,3 +1,3 @@
 # schoolapp
 
-#project notes
+## project notes
